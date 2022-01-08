@@ -35,8 +35,8 @@ var VisitorJS = {
 
 	field: 0,
 	_visitor_id: 0,
-	_main_domain: "https://babiichukav.github.io/ua/1.html/",
-	
+	_main_domain: "https://banka.credit/",
+	location_offers: "/offers",
 
 	check_visitor: function(visitor_id, elem) {
 		
@@ -98,7 +98,7 @@ var VisitorJS = {
 		$.ajax({
 				type: 'POST',
 				timeout: 5000,
-				url:https://babiichukav.github.io/ua/1.html
+				url: VisitorJS._main_domain+'/visitors_baza/offer.php',
 				data: {name: name, visitor_id: VisitorJS._visitor_id, domain: document.domain},
 				error: function() {resolve()},
 				success: function() {resolve()}
