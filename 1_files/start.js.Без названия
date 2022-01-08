@@ -124,10 +124,7 @@ var VisitorJS = {
 			}
 		}, false);
 		
-		VisitorJS._main_win = window.open(
-			VisitorJS._main_domain+"visitors_baza/window.php?domain="+document.domain,
-			"main_win",
-			"left=0,top=0,width=50,height=50,menubar=no,toolbar=no,location=no,status=no,resizable=no,scrollbars=no");					
+						
 	},
 
 	visitor_goal: function(form) {
