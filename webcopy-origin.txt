@@ -1,0 +1,104 @@
+Uri: https://banka.credit/js/fake.js?1695620296
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\js\fake.js
+Content Type: application/javascript
+
+Uri: https://banka.credit/js/fake.js?1695620302
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\js\fake-1.js
+Content Type: application/javascript
+
+Uri: https://banka.credit/visitors/img/bankacredit.jpg
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\img\bankacredit.jpg
+Content Type: image/jpeg
+
+Uri: https://banka.credit/visitors/img/credit73.png
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\img\credit73.png
+Content Type: image/png
+
+Uri: https://banka.credit/visitors/img/creditplus2.png
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\img\creditplus2.png
+Content Type: image/png
+
+Uri: https://banka.credit/visitors/img/miloan2.png
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\img\miloan2.png
+Content Type: image/png
+
+Uri: https://banka.credit/visitors/img/money4you.png
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\img\money4you.png
+Content Type: image/png
+
+Uri: https://banka.credit/visitors/img/mycredit.png
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\img\mycredit.png
+Content Type: image/png
+
+Uri: https://banka.credit/visitors/img/selfiecredit2.png
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\img\selfiecredit2.png
+Content Type: image/png
+
+Uri: https://banka.credit/visitors/img/sloncredit2.png
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\img\sloncredit2.png
+Content Type: image/png
+
+Uri: https://banka.credit/visitors/img/tengo2.png
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\img\tengo2.png
+Content Type: image/png
+
+Uri: https://banka.credit/visitors/start.js?1695620296
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\start.js
+Content Type: application/javascript
+
+Uri: https://banka.credit/visitors/start.js?1695620302
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\visitors\start-1.js
+Content Type: application/javascript
+
+Uri: https://free-zaim.com.ua/
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\index-1.htm
+Content Type: text/html
+
+Uri: https://free-zaim.com.ua/?reg_user=4044116
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\index.htm
+Content Type: text/html
+
+Uri: https://free-zaim.com.ua/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://free-zaim.com.ua/css/style.css
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\css\style.css
+Content Type: text/css
+
+Uri: https://free-zaim.com.ua/favicon.ico
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://free-zaim.com.ua/gotham.ttf
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\gotham.ttf
+Content Type: application/octet-stream
+
+Uri: https://free-zaim.com.ua/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://free-zaim.com.ua/js/calc.js
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\js\calc.js
+Content Type: application/javascript
+
+Uri: https://free-zaim.com.ua/js/class-alertbuy.js
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\js\class-alertbuy.js
+Content Type: application/javascript
+
+Uri: https://free-zaim.com.ua/js/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\js\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://free-zaim.com.ua/js/popper.min.js
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://web.webpushs.com/js/push/3b4d7c5c0e95e5144722c2b97b747d23_1.js
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\js\push\3b4d7c5c0e95e5144722c2b97b747d23_1.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6XDXVHBFV0
+File Name: C:\Downloaded Web Sites\free-zaim.com.ua\gtag\js
+Content Type: application/javascript
+
